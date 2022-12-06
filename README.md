@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShambhaviMishra319
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Android App Development
+- 👀 I’m interested in Backend
 
 <!---
 ShambhaviMishra319/ShambhaviMishra319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
